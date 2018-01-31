@@ -1,0 +1,6 @@
+framework module Pods_RxFeedbackCUI {
+  umbrella header "Pods-RxFeedbackCUI-umbrella.h"
+
+  export *
+  module * { export * }
+}
